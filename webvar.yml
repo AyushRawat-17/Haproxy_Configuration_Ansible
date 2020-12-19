@@ -1,0 +1,2 @@
+webdir: "/var/www/html/index.html"
+webcontent: "/root/haproxyws_ansible/index.html"

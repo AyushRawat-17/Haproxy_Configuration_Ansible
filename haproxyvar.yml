@@ -1,0 +1,4 @@
+cfgsrc: "/root/haproxyws_ansible/haproxy.j2"
+cfgdest: "/etc/haproxy/haproxy.cfg"
+haport: "5000"
+
